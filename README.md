@@ -1,7 +1,8 @@
 ## Welcome to Python-Game
 
-
-mohamedhakem.github.io/Python-Game/littlegame.py
+To dowload the code
+Here's the link:
+         https://www.mohamedhakem.github.io/Python-Game/littlegame.py
 
 
 
