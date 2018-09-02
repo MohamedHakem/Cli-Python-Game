@@ -2,7 +2,7 @@
 
 To dowload the code
 Here's the link:
-         http://www.mohamedhakem.github.io/Python-Game/littlegame.py
+         https://mohamedhakem.github.io/Python-Game/littlegame.py
 
 
 
